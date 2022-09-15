@@ -5,7 +5,7 @@ These are the codes and extra that will be used within "Data Visualization and I
 Amazon: https://www.amazon.com/dp/B0BF2TNF9V
 
 # Order of Contents
-Preface 
+Preface
 Acknowledgments
 ### Chapter 1. Python
 1. What is Python?
