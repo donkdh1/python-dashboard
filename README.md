@@ -4,10 +4,10 @@ These are the codes and extra that will be used within "Data Visualization and I
 # Purchase
 Amazon: https://www.amazon.com/dp/B0BF2TNF9V
 
-#Order of Contents
+# Order of Contents
 Preface 
 Acknowledgments
-## Chapter 1. Python
+### Chapter 1. Python
 1. What is Python?
   1.1 Installing Python
   1.2 Building the Virtual Environment
@@ -16,7 +16,7 @@ Acknowledgments
   3.1 Revenue Data
   3.2 Public Data (COVID-19 & Vaccination) 
 4. The Goal of the Book
-## Chapter 2. Plotly
+### Chapter 2. Plotly
 1. What is Plotly?
   1.1 Plotly Inputs 
   1.2 Plotly – Inputting Data as Objects
@@ -32,7 +32,7 @@ Acknowledgments
   3.4 Radar Chart
   3.5 Indicator
   3.6 Maps
-## Chapter 3. Developing Dashboards
+### Chapter 3. Developing Dashboards
 1. What is Dash?
   1.1 Installing Dash
 2. Dash Structure
@@ -42,7 +42,7 @@ Acknowledgments
 3. Using Dash & Plotly
   3.1 Dashboard (Revenue Data)
   3.2 Dashboard (Public Data: COVID-19 & Vaccination)
-## Chapter 4. Deploying the Dashboard
+### Chapter 4. Deploying the Dashboard
 1. GitHub 
   1.1 Registering for GitHub and Managing the Repository 
   1.2 Installing GitHub Desktop
