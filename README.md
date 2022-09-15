@@ -1,9 +1,18 @@
 # python-dashboard
 These are the codes and extra that will be used within "Data Visualization and Interactive Dashboards with Python"
 
+<br><br>
 # Purchase
 Amazon: https://www.amazon.com/dp/B0BF2TNF9V
 
+<br><br>
+# Practice Sets
+The revenue data can be found here: [Revenue Data](https://github.com/donkdh1/python-dashboard/tree/main/data/Revenue%20data)  
+The code for the revenue dashboard can be found here: [Code](https://github.com/donkdh1/python-dashboard/tree/main/Python%20Revenue%20Dashboard)  
+The Covid-19 data can be found here: [Covid-19 Data](https://github.com/donkdh1/python-dashboard/tree/main/data/Covid%20data)  
+The code for the Covid-19 dashboard can be found here: [Code](https://github.com/donkdh1/python-dashboard/tree/main/Python%20COVID-19%20and%20Vaccination%20Dashboard)
+
+<br><br>
 # Order of Contents
 ### Preface
 ### Acknowledgments
